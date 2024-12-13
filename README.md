@@ -43,4 +43,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 Special thanks to my dear friend [Mahdiar-Sh](https://github.com/Mahdiar-Sh) for their collaboration.
+
 Developed with ❤️ to make ChatGPT more accessible for Persian and Arabic users!
