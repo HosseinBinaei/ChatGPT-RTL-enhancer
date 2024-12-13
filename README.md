@@ -23,7 +23,7 @@ Here are some screenshots of ChatGPT RTL Enhancer in action:
 
 ![Screenshot](screenshot1.PNG)
 
-![Screenshot](screenshot2.png)
+![Screenshot2](screenshot2.png)
 
 ## Project Link
 
