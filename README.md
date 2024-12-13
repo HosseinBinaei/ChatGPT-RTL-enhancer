@@ -21,9 +21,9 @@ ChatGPT RTL Enhancer is a Firefox add-on designed to enhance the readability of 
 
 Here are some screenshots of ChatGPT RTL Enhancer in action:
 
-![Screenshot](main/screenshot1.PNG)
+![Screenshot](screenshot1.PNG)
 
-![Screenshot](main/screenshot2.png)
+![Screenshot](screenshot2.png)
 
 ## Project Link
 
